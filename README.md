@@ -25,3 +25,4 @@ Ensure you have the following installed:
 ```bash
 git clone https://github.com/muqeet475/Add-Banner-Project.git
 cd Add-Banner-Project
+![Screenshot 2024-07-31 201305](https://github.com/user-attachments/assets/c7bbd608-d92e-41bd-a722-dcb57371cd82)
